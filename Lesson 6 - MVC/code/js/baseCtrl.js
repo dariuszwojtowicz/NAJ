@@ -1,0 +1,4 @@
+UAM.BaseCtrl = function () {
+	
+};
+

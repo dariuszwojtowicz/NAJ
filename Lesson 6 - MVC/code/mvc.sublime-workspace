@@ -1,0 +1,728 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"offers",
+				"offers_ids"
+			],
+			[
+				"cart",
+				"cart_from"
+			],
+			[
+				"show",
+				"show_name"
+			],
+			[
+				"sho",
+				"show_phone"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"map",
+				"mapArrayNewCtx"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"font",
+				"font-family"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1308,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/app.js",
+			"settings":
+			{
+				"buffer_size": 469,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/baseCtrl.js",
+			"settings":
+			{
+				"buffer_size": 35,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/baseView.js",
+			"settings":
+			{
+				"buffer_size": 114,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/ee.js",
+			"settings":
+			{
+				"buffer_size": 858,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/footerCtrl.js",
+			"settings":
+			{
+				"buffer_size": 85,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/footerView.js",
+			"settings":
+			{
+				"buffer_size": 85,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/inputCtrl.js",
+			"settings":
+			{
+				"buffer_size": 140,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/inputView.js",
+			"settings":
+			{
+				"buffer_size": 317,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/listCtrl.js",
+			"settings":
+			{
+				"buffer_size": 81,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/listView.js",
+			"settings":
+			{
+				"buffer_size": 81,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/store.js",
+			"settings":
+			{
+				"buffer_size": 271,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/utils.js",
+			"settings":
+			{
+				"buffer_size": 150,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/NAJ/1/Kurs_UAM-summer2015/Lesson 6 - MVC/code/style.css",
+		"/F/NAJ/1/Kurs_UAM-summer2015/Lesson 6 - MVC/code/js/baseView.js",
+		"/F/NAJ/1/Kurs_UAM-summer2015/Lesson 6 - MVC/code/js/footerCtrl.js",
+		"/F/NAJ/1/Kurs_UAM-summer2015/Lesson 6 - MVC/code/js/inputCtrl.js",
+		"/F/NAJ/1/Kurs_UAM-summer2015/Lesson 6 - MVC/code/js/listCtrl.js",
+		"/F/NAJ/1/Kurs_UAM-summer2015/Lesson 6 - MVC/code/js/baseCtrl.js",
+		"/F/NAJ/1/Kurs_UAM-summer2015/Lesson 6 - MVC/code/js/footerView.js",
+		"/F/NAJ/1/Kurs_UAM-summer2015/Lesson 6 - MVC/code/js/listView.js",
+		"/F/NAJ/1/Kurs_UAM-summer2015/Lesson 6 - MVC/code/js/inputView.js",
+		"/F/NAJ/1/Kurs_UAM-summer2015/Lesson 6 - MVC/code/js/ee.js",
+		"/F/NAJ/1/Kurs_UAM-summer2015/Lesson 6 - MVC/code/js/app.js",
+		"/F/NAJ/1/Kurs_UAM-summer2015/Lesson 6 - MVC/code/js/store.js",
+		"/F/NAJ/1/Kurs_UAM-summer2015/Lesson 6 - MVC/code/js/utils.js",
+		"/F/NAJ/1/Kurs_UAM-summer2015/Lesson 6 - MVC/code/index.html",
+		"/F/IRK/public/offers.html",
+		"/F/IRK/routes/carts.js",
+		"/F/IRK/routes/books.js",
+		"/F/IRK/public/js/auth.js",
+		"/F/IRK/public/js/books.js",
+		"/F/IRK/public/js/messages.js",
+		"/F/IRK/public/js/offers.js",
+		"/F/IRK/public/js/users.js",
+		"/F/IRK/public/js/model.js",
+		"/F/IRK/routes/offers.js",
+		"/F/IRK/public/js/view.js",
+		"/F/IRK/routes/users.js",
+		"/F/IRK/public/users.html",
+		"/F/IRK/public/login.html",
+		"/F/IRK/public/books.html",
+		"/F/IRK/public/index.html",
+		"/F/IRK/public/js/exchanges.js",
+		"/F/IRK/public/exchanges.html",
+		"/F/IRK/routes/main.js",
+		"/F/IRK/routes/exchange.js",
+		"/F/IRK/routes/auth.js",
+		"/F/IRK/routes/exchanges.js",
+		"/F/IRK/config.json",
+		"/F/IRK/routes/index.js",
+		"/F/IRK/index.js",
+		"/C/Users/Dariusz/Downloads/Kurs_UAM-summer2015 (1)/Kurs_UAM-summer2015/Lesson 4 - DOM/code/.jshintrc",
+		"/C/Users/Dariusz/Downloads/Kurs_UAM-summer2015 (1)/Kurs_UAM-summer2015/Lesson 4 - DOM/code/readme.txt",
+		"/C/Users/Dariusz/Downloads/Kurs_UAM-summer2015 (1)/Kurs_UAM-summer2015/Lesson 4 - DOM/code/index.html",
+		"/C/Users/Dariusz/Downloads/Kurs_UAM-summer2015 (1)/Kurs_UAM-summer2015/Lesson 4 - DOM/code/app.js",
+		"/C/Users/Dariusz/Downloads/Kurs_UAM-summer2015 (1)/Kurs_UAM-summer2015/Lesson 4 - DOM/code/app.css",
+		"/F/IRK/modules/db/index.js",
+		"/F/NAJ/1/Kurs_UAM-summer2015/Lesson 3 - Objects/code/newObject/newObject.js",
+		"/F/IRK/modules/auth/default.js",
+		"/F/IRK/utils/index.js",
+		"/F/IRK/modules/auth/facebook.js",
+		"/F/IRK/public/js/user.js",
+		"/F/NAJ/1/Kurs_UAM-summer2015/Lesson 3 - Objects/code/newObject/spec/newObjectSpec.js",
+		"/F/NAJ/1/Kurs_UAM-summer2015/Lesson 3 - Objects/code/newObject/SpecRunner.html",
+		"/F/NAJ/1/Kurs_UAM-summer2015/Lesson 3 - Objects/code/animals/SpecRunner.html",
+		"/F/NAJ/1/Kurs_UAM-summer2015/Lesson 3 - Objects/code/animals/spec/animalsSpec.js",
+		"/F/NAJ/1/Kurs_UAM-summer2015/Lesson 3 - Objects/code/animals/animals.js",
+		"/F/NAJ/1/Kurs_UAM-summer2015/Lesson 2 - Functions/code/exercise2/SpecRunner.html",
+		"/F/NAJ/1/Kurs_UAM-summer2015/Lesson 2 - Functions/code/exercise2/spec/spec.js",
+		"/F/NAJ/1/Kurs_UAM-summer2015/Lesson 2 - Functions/code/exercise2/code.js",
+		"/F/NAJ/1/Kurs_UAM-summer2015/Lesson 2 - Functions/code/exercise1/SpecRunner.html",
+		"/F/NAJ/1/Kurs_UAM-summer2015/Lesson 2 - Functions/code/exercise1/code.js",
+		"/F/NAJ/1/Kurs_UAM-summer2015/Lesson 2 - Functions/code/exercise1/spec/spec.js",
+		"/F/NAJ/1/Kurs_UAM-summer2015/Lesson 1/code/quiz/quiz.js",
+		"/F/NAJ/1/Kurs_UAM-summer2015/Lesson 1/code/quiz/SpecRunner.html",
+		"/F/NAJ/1/Kurs_UAM-summer2015/Lesson 1/code/exercises/exercise2.html",
+		"/F/NAJ/1/Kurs_UAM-summer2015/Lesson 1/code/exercises/exercise3.html",
+		"/F/NAJ/1/info.txt",
+		"/F/NAJ/1/first.js",
+		"/F/NAJ/1/style.css",
+		"/F/NAJ/1/Kurs_UAM-summer2015/Lesson 1/code/exercises/exercise1.html",
+		"/F/NAJ/1/first.html",
+		"/F/NAJ/1/First.js",
+		"/F/NAJ/First.html",
+		"/C/Users/Dariusz/Desktop/NaszDom/css/elastislide.css",
+		"/C/Users/Dariusz/Desktop/NaszDom/css/demo.css",
+		"/C/Users/Dariusz/Desktop/NaszDom/css/reset.css",
+		"/C/Users/Dariusz/Desktop/NaszDom/css/style.css",
+		"/C/Users/Dariusz/Desktop/NaszDom/my.html",
+		"/C/Users/Dariusz/Desktop/NaszDom/index.html",
+		"/C/Users/Dariusz/Downloads/NaszDom/index.html",
+		"/C/Users/Dariusz/Downloads/NaszDom/css/style.css",
+		"/C/Users/Dariusz/Downloads/NaszDom/my.html",
+		"/C/Users/Dariusz/Desktop/NaszDom/style/style.css",
+		"/C/Users/Dariusz/Downloads/ResponsiveImageGallery/ResponsiveImageGallery/css/style.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"data-id",
+			"logout",
+			"font-family"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 1308,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/app.js",
+					"settings":
+					{
+						"buffer_size": 469,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/baseCtrl.js",
+					"settings":
+					{
+						"buffer_size": 35,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/baseView.js",
+					"settings":
+					{
+						"buffer_size": 114,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								58
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "js/ee.js",
+					"settings":
+					{
+						"buffer_size": 858,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								291,
+								303
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "js/footerCtrl.js",
+					"settings":
+					{
+						"buffer_size": 85,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "js/footerView.js",
+					"settings":
+					{
+						"buffer_size": 85,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "js/inputCtrl.js",
+					"settings":
+					{
+						"buffer_size": 140,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "js/inputView.js",
+					"settings":
+					{
+						"buffer_size": 317,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "js/listCtrl.js",
+					"settings":
+					{
+						"buffer_size": 81,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "js/listView.js",
+					"settings":
+					{
+						"buffer_size": 81,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "js/store.js",
+					"settings":
+					{
+						"buffer_size": 271,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								191,
+								191
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "js/utils.js",
+					"settings":
+					{
+						"buffer_size": 150,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"config.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 161.0,
+	"status_bar_visible": true
+}
