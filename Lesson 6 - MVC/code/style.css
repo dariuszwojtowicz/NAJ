@@ -30,3 +30,28 @@ button {
 	width: 100px;
 	height: 20px;
 }
+
+li.active {
+	background-color: #98FAC1;
+	color: white;
+}
+
+li.active:hover{
+	background-color: white;
+	color: #98FAC1;
+}
+
+li.inactive {
+	background-color: white;
+	color: #98FAC1;
+}
+
+li {
+	height: 30px;
+	width: 100%;
+	border: 1px solid black;
+}
+
+.hidden {
+	display: none;
+}

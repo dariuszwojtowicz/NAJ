@@ -5,9 +5,8 @@
 		global.UAM = {};
 	}
 
-	EE = function () {
-		this.listeners = {};
-	};
+	EE = function() {};
+	EE.prototype.listeners = {};
 
 	EE.prototype.on = function (eventName, listener, context) {
 		var listenerData, me = this;

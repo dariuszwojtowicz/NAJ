@@ -1,6 +1,9 @@
 UAM.InputCtrl = function () {
-	var ee = UAM.EventEmitter.prototype;
-	ee.on('new_item');
+	
+	ee.on('new_item', function() {
+		var input = arguments[0];
+		store.add(input);
+	});
 };
 
 UAM.utils.inherits(UAM.BaseCtrl, UAM.InputCtrl);
